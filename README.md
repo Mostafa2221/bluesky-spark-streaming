@@ -98,7 +98,7 @@ Make sure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/bluesky-spark.git
+git clone https://github.com/Mostafa2221/bluesky-spark.git
 cd bluesky-spark
 ```
 
@@ -247,5 +247,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Mostafa** — Software Engineering Student, Helwan University (FCAIH)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/<your-linkedin>)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/<your-username>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/mostafa-alaa-27a49728a/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Mostafa2221)
